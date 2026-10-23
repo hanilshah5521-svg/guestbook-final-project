@@ -1,0 +1,9 @@
+Listing images...
+
+Repository                                      Tag                 Digest         Namespace              Created         Size    Security status
+us.icr.io/sn-labs-mayankgoplan/dealerdetails    261022-2045-g7s29   3687cc52ca0d   sn-labs-mayankgoplan   13 hours ago    89 MB   -
+us.icr.io/sn-labs-mayankgoplan/frontend         261022-2120-ai5j3   1b7c2ea1ee10   sn-labs-mayankgoplan   12 hours ago    51 MB   -
+us.icr.io/sn-labs-mayankgoplan/guestbook        v1                  2c527d2040b6   sn-labs-mayankgoplan   8 minutes ago   32 MB   -
+us.icr.io/sn-labs-mayankgoplan/prodlist         261022-2030-g7jqi   89f78a604eec   sn-labs-mayankgoplan   13 hours ago    51 MB   -
+
+OK

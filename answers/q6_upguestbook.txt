@@ -1,0 +1,18 @@
+The push refers to repository [us.icr.io/sn-labs-mayankgoplan/guestbook]
+5f70bf18a086: Preparing
+0f2b0348717d: Preparing
+e10da87c4cf6: Preparing
+4c143ba5801c: Preparing
+d0a4af4825d6: Preparing
+441f58aec163: Preparing
+548a79621a42: Preparing
+441f58aec163: Waiting
+548a79621a42: Waiting
+5f70bf18a086: Layer already exists
+441f58aec163: Layer already exists
+548a79621a42: Layer already exists
+4c143ba5801c: Pushed
+d0a4af4825d6: Pushed
+0f2b0348717d: Pushed
+e10da87c4cf6: Pushed
+v2: digest: sha256:793642b5266c00684b2e9286705296fde14962f98ac2cd58b63adc7176333a2a size: 1776

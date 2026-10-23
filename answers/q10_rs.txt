@@ -1,0 +1,5 @@
+NAME                              DESIRED   CURRENT   READY   AGE
+guestbook-6cd8f78b98              3         3         3       41m
+guestbook-77669474d8              0         0         0       107m
+guestbook-cdb6cc9fc               0         0         0       5m28s
+openshift-web-console-6956d4cd45  2         2         2       143m
